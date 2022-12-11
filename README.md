@@ -7,7 +7,7 @@ Source : https://uidesigndaily.com/posts/figma-users-list-card-day-1542
 
 ## Live
 
-https://github.com/cemtatli/user-list-component
+https://user-list-component.netlify.app/
 
 ## Bilgisayarınızda Çalıştırın
 
