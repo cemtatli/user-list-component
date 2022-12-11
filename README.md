@@ -14,7 +14,7 @@ https://github.com/cemtatli/user-list-component
 Projeyi klonlayın
 
 ```bash
-  git clone [https://github.com/cemtatli/subs-card-design](https://github.com/cemtatli/user-list-component)
+  git clone [https://github.com/cemtatli/subs-card-design
 ```
 
 Proje dizinine gidin
