@@ -1,6 +1,6 @@
 
 # Subscription Cards Design
-I coded the designs taken from uidesigndaily.
+I coded the designs taken from uidesigndaily. <br>
 Source : https://uidesigndaily.com/posts/figma-users-list-card-day-1542
 
 ## Ekran Görüntüsü
